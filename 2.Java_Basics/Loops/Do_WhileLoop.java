@@ -1,0 +1,15 @@
+package Loops;
+
+public class Do_WhileLoop {
+    
+        public static void main(String[]args){
+            int i =1;
+            do{
+                System.out.println("vidya");
+                i++;
+            }while(i<10);
+        }
+    }
+    
+    
+
